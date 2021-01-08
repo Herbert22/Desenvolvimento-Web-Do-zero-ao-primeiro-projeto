@@ -22,5 +22,5 @@ for (var index in nomes) {
 
     var m = media(nota1, nota2);
 
-    console.log(nomes[index] + " - " + nota1 + " - " + " - " + nota2 + " - " + passou(m));
+    console.log(nomes[index] + " - " + nota1 + " - " + nota2 + " - " + passou(m));
 }
